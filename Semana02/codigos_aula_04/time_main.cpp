@@ -33,5 +33,4 @@ int main() {
   t3.nextSecond();
   t3.print();  // 00:00:00
   return 0;
-  
 }
